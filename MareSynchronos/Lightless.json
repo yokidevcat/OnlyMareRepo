@@ -1,11 +1,11 @@
 {
-  "Author": "darkarchon",
-  "Name": "Mare Synchronos",
-  "InternalName": "MareSynchronos",
+  "Author": "Zura",
+  "Name": "Lightless Sync",
+  "InternalName": "Lightless",
   "AssemblyVersion": "0.8.35.0",
   "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Penumbra-Sync/client",
+  "RepoUrl": "https://github.com/Light-Public-Syncshells/LightlessClient",
   "Tags": [
     "customization"
   ],
