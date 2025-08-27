@@ -1,10 +1,10 @@
-Welcome to Lightless Sync, a FFXIV and Discord Application designed to let others see you as you see yourself.
+Welcome to OnlyMare, a FFXIV and Discord Application designed to let others see you as you see yourself.
 
-Lightless Sync allows users to issue commands ingame to pair up and sync their Penumbra and Glamourer state.
+OnlMare allows users to issue commands ingame to pair up and sync their Penumbra and Glamourer state.
 
-- You agree to use Lightless Sync in accordance with all applicable Discord Terms of Service and Community Guidelines.
+- You agree to use OnlyMare in accordance with all applicable Discord Terms of Service and Community Guidelines.
 - You must not use the bot only for it's intended purpose. (verification)
-Lightless Sync does not store any personal data or user input. All commands are processed in real time and no logs or history are retained.
+OnlyMare does not store any personal data or user input. All commands are processed in real time and no logs or history are retained.
 
 We reserve the right to modify, suspend, or discontinue the Application at any time without notice. The Application is provided “as is,” with no guarantees of uptime or functionality.
 
