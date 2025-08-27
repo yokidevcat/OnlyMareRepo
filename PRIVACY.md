@@ -1,6 +1,6 @@
 
 Privacy Policy
-Last updated: August 24, 2025
+Last updated: August 27, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -134,4 +134,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: zurazan@zurazan.com
+By email: yokidevo@gmail.com
