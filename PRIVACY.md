@@ -17,9 +17,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to Lightless Sync, the software program provided by the Company.
+Application refers to OnlyMare, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Lightless Sync.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to OnlyMare.
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
