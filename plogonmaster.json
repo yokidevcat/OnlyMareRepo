@@ -12,12 +12,12 @@
         ],
         "DalamudApiLevel": 13,
         "LoadPriority": 0,
-        "IconUrl": "https://github.com/yokidevcat/OnlyMareRepo/blob/8b1d50bbc5c58e745eeacfc56130ca20ffb08ac5/LightlessSync/icon.png",
+        "IconUrl": "https://raw.githubusercontent.com/yokidevcat/OnlyMareRepo/main/OnlyMare/icon.png",
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/yokidevcat/OnlyMareClient/releases/download/1.12.0/OnlyMareClient.zip",
-        "DownloadLinkTesting": "https://github.com/yokidevcat/OnlyMareClient/releases/download/1.12.0/OnlyMareClient.zip",
-        "DownloadLinkUpdate": "https://github.com/yokidevcat/OnlyMareClient/releases/download/1.12.0/OnlyMareClient.zip"
+        "DownloadLinkInstall": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.0/OnlyMareClient.zip",
+        "DownloadLinkTesting": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.0/OnlyMareClient.zip",
+        "DownloadLinkUpdate": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.0/OnlyMareClient.zip"
       }
 ]
