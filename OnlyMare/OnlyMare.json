@@ -14,7 +14,7 @@
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://github.com/yokidevcat/OnlyMareRepo/blob/main/OnlyMare/icon.png",
+  "IconUrl": "https://raw.githubusercontent.com/yokidevcat/OnlyMareRepo/main/OnlyMare/icon.png",
   "Punchline": "Let others see you as you see yourself.",
   "AcceptsFeedback": true
 }
