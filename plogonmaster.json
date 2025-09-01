@@ -3,7 +3,7 @@
         "Author": "YokiDevCat",
         "Name": "OnlyMare",
         "InternalName": "OnlyMare",
-        "AssemblyVersion": "1.12.1",
+        "AssemblyVersion": "1.12.2",
         "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/yokidevcat/OnlyMareClient",
@@ -16,8 +16,8 @@
         "Punchline": "Let others see you as you see yourself.",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.1/OnlyMareClient.zip",
-        "DownloadLinkTesting": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.1/OnlyMareClient.zip",
-        "DownloadLinkUpdate": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.1/OnlyMareClient.zip"
+        "DownloadLinkInstall": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.2/OnlyMareClient.zip",
+        "DownloadLinkTesting": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.2/OnlyMareClient.zip",
+        "DownloadLinkUpdate": "https://github.com/yokidevcat/OnlyMareClient/releases/download/v1.12.2/OnlyMareClient.zip"
       }
 ]
